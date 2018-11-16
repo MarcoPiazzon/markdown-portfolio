@@ -1,1 +1,1 @@
-follow me in www.github.com
+[text](www.github.com)
